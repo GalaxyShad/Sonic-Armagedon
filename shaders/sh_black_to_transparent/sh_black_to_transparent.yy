@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_black_to_transparent",
+  "name":"sh_black_to_transparent",
+  "parent":{
+    "name":"Шейдеры",
+    "path":"folders/Шейдеры.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

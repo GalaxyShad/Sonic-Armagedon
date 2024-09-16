@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_terrain",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_terrain",
+  "parent":{
+    "name":"SonicArmagedon",
+    "path":"SonicArmagedon.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
